@@ -1,3 +1,3 @@
-Hola este es el taller #2 de git para backend 
+#cambiar contenido del archivo readme.md
 
 Uso del repositorio 
